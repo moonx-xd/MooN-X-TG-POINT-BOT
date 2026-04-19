@@ -3,7 +3,7 @@ const Database = require("better-sqlite3");
 const path = require("path");
 
 // ===================== CONFIG =====================
-const TOKEN = "8756023029:AAHnBDv6MMnVA5WQmR34c-Nz3L8qA_4irLg";
+const TOKEN = "8756023029:AAECl1GHT2OMbXaprjyg-jFfvQ1N_OPUOv0";
 const ADMIN_ID = 5924662015;
 
 // ── Daily Claim ──
